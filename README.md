@@ -1,4 +1,5 @@
-==README==
+README
+======
 
 This repository is a meta-repository for the cismet development team (http://www.cismet.de).
 
